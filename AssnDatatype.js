@@ -115,6 +115,16 @@ Create variables to store:
 - Student's grade
 Use appropriate JavaScript datatypes.
 
+let studentName = "Gouri";
+let studentAge = 20;
+let studentPercentage = 85.5;
+let hasCompletedCourse = true;
+let studentGrade = "A";
+console.log(studentName);
+console.log(studentAge);
+console.log(studentPercentage);
+console.log(hasCompletedCourse);
+console.log(studentGrade);
 
 5.Create two variables:
 let userName;
