@@ -1,3 +1,4 @@
+
 let num1=121,rem=0,rev=0,temp=num1;
 while(num1>0)
 {

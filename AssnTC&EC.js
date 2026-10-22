@@ -1,4 +1,3 @@
-JavaScript Practice: Type Coercion & Explicit Conversion
 ===========================================================
 
 Problem 1 — UI Price and Quantity

@@ -1,4 +1,4 @@
-//Datatype Assignment
+
 ===================
 
 1. Identify the datatype
