@@ -19,7 +19,7 @@ else
 
 Assignment2: 
 Problem: 
-Print the day of the week based on number (1–7). 
+Print the day of the week based on number (1-7). 
 What you will use here? If-else or switch case? 
  
 let day=2
