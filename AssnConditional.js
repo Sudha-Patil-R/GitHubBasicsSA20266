@@ -1,7 +1,6 @@
-=================================
-Assignment1: 
-Problem: 
-Write a JavaScript program to check whether a number is even or odd. 
+//Assignment1: 
+//Problem: 
+//Write a JavaScript program to check whether a number is even or odd. 
  
 let num=20
 if(num%2===0)
@@ -17,10 +16,10 @@ else
 
 
 
-Assignment2: 
-Problem: 
-Print the day of the week based on number (1-7). 
-What you will use here? If-else or switch case? 
+//Assignment2: 
+//Problem: 
+//Print the day of the week based on number (1-7). 
+//What you will use here? If-else or switch case? 
  
 let day=2
 switch(day)
